@@ -123,10 +123,6 @@ class LineIntensityProfileLogic(ScriptedLoadableModuleLogic):
 
   def hasImageData(self,volumeNode):
     """returns true if the passed in volumenode has valid image data"""
-    if not volumeNode:
-      return False
-    if volumeNode.GetImageData() is None:
-      return False
     return True
 
 

@@ -23,9 +23,9 @@ Download stable version of slicer from [download.slicer.org](http://download.sli
     
     Modules → Developer tools → Developer tools for extension
     
-5. Load the [LineIntensityProfile.py](http://LineIntensityProfile.py) python file
+5. Load the LineIntensityProfile.py python file
     
-    Load Module → Select [LineIntensityProfile.py](http://LineIntensityProfile.py) (from downloaded folder)
+    Load Module → Select LineIntensityProfile.py (from downloaded folder)
     
 6. Open Line Intensity Profile extension and explore.
     

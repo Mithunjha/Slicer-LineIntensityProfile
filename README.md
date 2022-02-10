@@ -1,5 +1,9 @@
 # Line Intensity Profile Analysis of Medical Images using Slicer
 
+# Goal
+
+Aim of the ‘Line Intensity Profile’ extension is to plot intensity levels of pixels within a drawn line. This extension can be used to compare the noise levels of multiple images and to compare physical properties of a drawn line in two 3D images. Potential applications of the extension are : Intensity homogeneity correction and change characterization.
+
 # Requirements
 
 1. **Slicer software**
@@ -10,12 +14,25 @@ Download stable version of slicer from [download.slicer.org](http://download.sli
 
 2. **Python**
 
+# Installing Extension to Slicer
 
-# Goal
+1. Download the zip file and extract it
+2. Install `DeveloperToolsForExtensions' from extension manager. 
+3. Restart the Slicer
+4. Open the Developer tools for extensions extension
+    
+    Modules → Developer tools → Developer tools for extension
+    
+5. Load the [LineIntensityProfile.py](http://LineIntensityProfile.py) python file
+    
+    Load Module → Select [LineIntensityProfile.py](http://LineIntensityProfile.py) (from downloaded folder)
+    
+6. Open Line Intensity Profile extension and explore.
+    
+    Module → Examples → Line Intensity Profile
 
-Aim of the ‘Line Intensity Profile’ extension is to plot intensity levels of pixels within a drawn line. This extension can be used to compare the noise levels of multiple images and to compare physical properties of a drawn line in two 3D images. Potential applications of the extension are : Intensity homogeneity correction and change characterization.
 
-# Step-by-Step
+# Instructions (Step-by-Step)
 
 1. **Load the `Line Intensity Profile' Extension**
     

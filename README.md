@@ -87,9 +87,9 @@ Download stable version of slicer from [download.slicer.org](http://download.sli
     **MRBrainTumor1 and MRBrainTumor2**
     
 
-![Figure 7 : Line Intensity Profile of user drawn line (Axial view)](Line%20Intensity%20Profile%20Analysis%20of%20Medical%20Images/10.png)
+![Figure 6 : Line Intensity Profile of user drawn line (Axial view)](Line%20Intensity%20Profile%20Analysis%20of%20Medical%20Images/10.png)
 
-Figure 7 : Line Intensity Profile of user drawn line (Axial view)
+Figure 6 : Line Intensity Profile of user drawn line (Axial view)
 
 ![Figure 7 : Line Intensity Profile of user drawn line (Sagittal view)](Line%20Intensity%20Profile%20Analysis%20of%20Medical%20Images/8.png)
 
